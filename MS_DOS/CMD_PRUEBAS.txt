@@ -1,0 +1,448 @@
+Microsoft Windows [Versión 10.0.19044.1865]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\user\Desktop>mkdir XD
+
+C:\Users\user\Desktop>mkdir xd.txt
+
+C:\Users\user\Desktop>copy con xd.txt
+hola mundo
+^B        1 archivo(s) copiado(s).
+
+C:\Users\user\Desktop>
+
+C:\Users\user\Desktop>
+
+C:\Users\user\Desktop>
+
+C:\Users\user\Desktop>
+
+C:\Users\user\Desktop>
+
+C:\Users\user\Desktop>
+
+C:\Users\user\Desktop>
+
+C:\Users\user\Desktop>
+
+C:\Users\user\Desktop>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+12/08/2022  20:33    <DIR>          .
+12/08/2022  20:33    <DIR>          ..
+06/08/2022  22:42    <DIR>          .ipynb_checkpoints
+16/06/2022  13:53             1.263 AmongUs.lnk
+01/05/2022  12:05             1.247 Apache NetBeans IDE 13.lnk
+05/08/2022  20:13    <DIR>          archivos otros
+06/08/2022  22:14    <DIR>          Auxiliatura 2_2022
+30/06/2022  00:44            34.058 bien.webp
+04/08/2022  03:13    <DIR>          C++
+11/08/2022  18:14             5.346 CLASE 1.ipynb
+04/07/2022  23:14             1.263 ClashRoyale.lnk
+12/08/2022  20:23                 5 cmd.bat
+10/08/2022  21:27             2.226 Discord.lnk
+01/05/2022  11:50               773 Eclipse IDE for Java Developers - 2022-03.lnk
+09/07/2022  22:39               739 ejercicio1.py
+09/07/2022  22:16    <DIR>          ejercicio2
+05/08/2022  20:13    <DIR>          Estadistica1
+24/06/2022  18:01               391 Fall Guys.url
+02/05/2022  11:28               366 Fortnite.url
+02/05/2022  07:55               380 Grand Theft Auto V.url
+12/08/2022  18:40            57.976 imagen.jpeg
+12/08/2022  19:23           957.570 imagen.psd
+06/07/2022  19:11             1.251 IntroStat.lnk
+01/05/2022  13:15             1.803 League of Legends.lnk
+12/08/2022  20:04                 0 lista.txt
+15/07/2022  12:47    <DIR>          ListaSimpleEstudiantes
+07/05/2022  10:54             1.476 matlab - Acceso directo.lnk
+07/08/2022  20:49             2.355 Microsoft Teams.lnk
+30/04/2022  18:29               879 MinGW Installer.lnk
+11/08/2022  18:26    <DIR>          PAPELES AUXILIATURA IMPORTANTE
+06/08/2022  18:34    <DIR>          para programar php
+16/05/2022  17:47             2.632 photoshop.lnk
+02/05/2022  11:44               993 Polyspace R2019a.lnk
+12/08/2022  18:45           848.895 presentacion.png
+09/07/2022  22:38               739 programa.py
+08/10/2021  17:19    <DIR>          Programs
+11/08/2022  17:33    <DIR>          prote
+23/06/2022  08:15               731 PSeInt.lnk
+06/08/2022  22:42             1.515 R1.ipynb
+06/08/2022  22:47            29.198 R1.pdf
+24/05/2022  19:13               941 Riot Client.lnk
+06/05/2022  22:08               380 Rocket League®.url
+02/05/2022  13:10               649 Rockstar Games Launcher.lnk
+01/05/2022  13:12             1.048 Spyder.lnk
+06/07/2022  19:39             1.327 Statistics.lnk
+06/07/2022  19:05             1.243 StatisticsCalculator.lnk
+06/07/2022  19:06             1.315 StatisticsFormulas.lnk
+03/08/2022  22:05             1.267 StumbleGuys.lnk
+30/04/2022  18:21               924 Sublime Text.lnk
+12/08/2022  19:46               349 Suma de Sub Conjuntos.txt
+06/08/2022  22:26             3.058 Tarea1.ipynb
+01/06/2022  01:16             1.029 Telegram.lnk
+05/08/2022  20:13    <DIR>          temporada 131
+06/08/2022  20:22             1.149 Untitled.ipynb
+06/08/2022  22:07             1.427 Untitled1.ipynb
+02/05/2022  23:33             1.749 VALORANT.lnk
+02/05/2022  21:14               380 VALORANT.url
+12/08/2022  20:27               229 virus.bat
+12/08/2022  19:14            34.388 WhatsApp Image 2022-08-12 at 7.13.48 PM.jpeg
+12/08/2022  20:33                12 xd.txt
+04/07/2022  12:37             1.928 Zoom.lnk
+              47 archivos      2.010.862 bytes
+              14 dirs  113.577.041.920 bytes libres
+
+C:\Users\user\Desktop>xd.txt
+
+C:\Users\user\Desktop>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+12/08/2022  20:34    <DIR>          .
+12/08/2022  20:34    <DIR>          ..
+06/08/2022  22:42    <DIR>          .ipynb_checkpoints
+16/06/2022  13:53             1.263 AmongUs.lnk
+01/05/2022  12:05             1.247 Apache NetBeans IDE 13.lnk
+05/08/2022  20:13    <DIR>          archivos otros
+06/08/2022  22:14    <DIR>          Auxiliatura 2_2022
+30/06/2022  00:44            34.058 bien.webp
+04/08/2022  03:13    <DIR>          C++
+11/08/2022  18:14             5.346 CLASE 1.ipynb
+04/07/2022  23:14             1.263 ClashRoyale.lnk
+12/08/2022  20:23                 5 cmd.bat
+10/08/2022  21:27             2.226 Discord.lnk
+01/05/2022  11:50               773 Eclipse IDE for Java Developers - 2022-03.lnk
+09/07/2022  22:39               739 ejercicio1.py
+09/07/2022  22:16    <DIR>          ejercicio2
+05/08/2022  20:13    <DIR>          Estadistica1
+24/06/2022  18:01               391 Fall Guys.url
+02/05/2022  11:28               366 Fortnite.url
+02/05/2022  07:55               380 Grand Theft Auto V.url
+12/08/2022  18:40            57.976 imagen.jpeg
+12/08/2022  19:23           957.570 imagen.psd
+06/07/2022  19:11             1.251 IntroStat.lnk
+01/05/2022  13:15             1.803 League of Legends.lnk
+12/08/2022  20:04                 0 lista.txt
+15/07/2022  12:47    <DIR>          ListaSimpleEstudiantes
+07/05/2022  10:54             1.476 matlab - Acceso directo.lnk
+07/08/2022  20:49             2.355 Microsoft Teams.lnk
+30/04/2022  18:29               879 MinGW Installer.lnk
+11/08/2022  18:26    <DIR>          PAPELES AUXILIATURA IMPORTANTE
+06/08/2022  18:34    <DIR>          para programar php
+16/05/2022  17:47             2.632 photoshop.lnk
+02/05/2022  11:44               993 Polyspace R2019a.lnk
+12/08/2022  18:45           848.895 presentacion.png
+09/07/2022  22:38               739 programa.py
+08/10/2021  17:19    <DIR>          Programs
+11/08/2022  17:33    <DIR>          prote
+23/06/2022  08:15               731 PSeInt.lnk
+06/08/2022  22:42             1.515 R1.ipynb
+06/08/2022  22:47            29.198 R1.pdf
+24/05/2022  19:13               941 Riot Client.lnk
+06/05/2022  22:08               380 Rocket League®.url
+02/05/2022  13:10               649 Rockstar Games Launcher.lnk
+01/05/2022  13:12             1.048 Spyder.lnk
+06/07/2022  19:39             1.327 Statistics.lnk
+06/07/2022  19:05             1.243 StatisticsCalculator.lnk
+06/07/2022  19:06             1.315 StatisticsFormulas.lnk
+03/08/2022  22:05             1.267 StumbleGuys.lnk
+30/04/2022  18:21               924 Sublime Text.lnk
+12/08/2022  19:46               349 Suma de Sub Conjuntos.txt
+06/08/2022  22:26             3.058 Tarea1.ipynb
+01/06/2022  01:16             1.029 Telegram.lnk
+05/08/2022  20:13    <DIR>          temporada 131
+06/08/2022  20:22             1.149 Untitled.ipynb
+06/08/2022  22:07             1.427 Untitled1.ipynb
+02/05/2022  23:33             1.749 VALORANT.lnk
+02/05/2022  21:14               380 VALORANT.url
+12/08/2022  20:27               229 virus.bat
+12/08/2022  19:14            34.388 WhatsApp Image 2022-08-12 at 7.13.48 PM.jpeg
+04/07/2022  12:37             1.928 Zoom.lnk
+              46 archivos      2.010.850 bytes
+              14 dirs  113.189.429.248 bytes libres
+
+C:\Users\user\Desktop>MKDIR FCPN
+
+C:\Users\user\Desktop>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+12/08/2022  20:54    <DIR>          .
+12/08/2022  20:54    <DIR>          ..
+06/08/2022  22:42    <DIR>          .ipynb_checkpoints
+16/06/2022  13:53             1.263 AmongUs.lnk
+01/05/2022  12:05             1.247 Apache NetBeans IDE 13.lnk
+05/08/2022  20:13    <DIR>          archivos otros
+06/08/2022  22:14    <DIR>          Auxiliatura 2_2022
+30/06/2022  00:44            34.058 bien.webp
+04/08/2022  03:13    <DIR>          C++
+11/08/2022  18:14             5.346 CLASE 1.ipynb
+04/07/2022  23:14             1.263 ClashRoyale.lnk
+12/08/2022  20:23                 5 cmd.bat
+10/08/2022  21:27             2.226 Discord.lnk
+01/05/2022  11:50               773 Eclipse IDE for Java Developers - 2022-03.lnk
+09/07/2022  22:39               739 ejercicio1.py
+09/07/2022  22:16    <DIR>          ejercicio2
+05/08/2022  20:13    <DIR>          Estadistica1
+24/06/2022  18:01               391 Fall Guys.url
+12/08/2022  20:54    <DIR>          FCPN
+02/05/2022  11:28               366 Fortnite.url
+02/05/2022  07:55               380 Grand Theft Auto V.url
+12/08/2022  18:40            57.976 imagen.jpeg
+12/08/2022  19:23           957.570 imagen.psd
+06/07/2022  19:11             1.251 IntroStat.lnk
+01/05/2022  13:15             1.803 League of Legends.lnk
+12/08/2022  20:04                 0 lista.txt
+15/07/2022  12:47    <DIR>          ListaSimpleEstudiantes
+07/05/2022  10:54             1.476 matlab - Acceso directo.lnk
+07/08/2022  20:49             2.355 Microsoft Teams.lnk
+30/04/2022  18:29               879 MinGW Installer.lnk
+11/08/2022  18:26    <DIR>          PAPELES AUXILIATURA IMPORTANTE
+06/08/2022  18:34    <DIR>          para programar php
+16/05/2022  17:47             2.632 photoshop.lnk
+02/05/2022  11:44               993 Polyspace R2019a.lnk
+12/08/2022  18:45           848.895 presentacion.png
+09/07/2022  22:38               739 programa.py
+08/10/2021  17:19    <DIR>          Programs
+11/08/2022  17:33    <DIR>          prote
+23/06/2022  08:15               731 PSeInt.lnk
+06/08/2022  22:42             1.515 R1.ipynb
+06/08/2022  22:47            29.198 R1.pdf
+24/05/2022  19:13               941 Riot Client.lnk
+06/05/2022  22:08               380 Rocket League®.url
+02/05/2022  13:10               649 Rockstar Games Launcher.lnk
+01/05/2022  13:12             1.048 Spyder.lnk
+06/07/2022  19:39             1.327 Statistics.lnk
+06/07/2022  19:05             1.243 StatisticsCalculator.lnk
+06/07/2022  19:06             1.315 StatisticsFormulas.lnk
+03/08/2022  22:05             1.267 StumbleGuys.lnk
+30/04/2022  18:21               924 Sublime Text.lnk
+12/08/2022  19:46               349 Suma de Sub Conjuntos.txt
+06/08/2022  22:26             3.058 Tarea1.ipynb
+01/06/2022  01:16             1.029 Telegram.lnk
+05/08/2022  20:13    <DIR>          temporada 131
+06/08/2022  20:22             1.149 Untitled.ipynb
+06/08/2022  22:07             1.427 Untitled1.ipynb
+02/05/2022  23:33             1.749 VALORANT.lnk
+02/05/2022  21:14               380 VALORANT.url
+12/08/2022  20:27               229 virus.bat
+12/08/2022  19:14            34.388 WhatsApp Image 2022-08-12 at 7.13.48 PM.jpeg
+04/07/2022  12:37             1.928 Zoom.lnk
+              46 archivos      2.010.850 bytes
+              15 dirs  113.182.404.608 bytes libres
+
+C:\Users\user\Desktop>cd FCPN
+
+C:\Users\user\Desktop\FCPN>MKDIR INF-99
+
+C:\Users\user\Desktop\FCPN>MKDIR MAT-99
+
+C:\Users\user\Desktop\FCPN>MKDIR FIS-99
+
+C:\Users\user\Desktop\FCPN>MKDIR LIN-99
+
+C:\Users\user\Desktop\FCPN>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop\FCPN
+
+12/08/2022  20:55    <DIR>          .
+12/08/2022  20:55    <DIR>          ..
+12/08/2022  20:54    <DIR>          FIS-99
+12/08/2022  20:54    <DIR>          INF-99
+12/08/2022  20:55    <DIR>          LIN-99
+12/08/2022  20:54    <DIR>          MAT-99
+               0 archivos              0 bytes
+               6 dirs  113.162.485.760 bytes libres
+
+C:\Users\user\Desktop\FCPN>cd FCPN\HOLA
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\user\Desktop\FCPN>MKDIR FCPN\HOLA
+
+C:\Users\user\Desktop\FCPN>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop\FCPN
+
+12/08/2022  20:56    <DIR>          .
+12/08/2022  20:56    <DIR>          ..
+12/08/2022  20:56    <DIR>          FCPN
+12/08/2022  20:54    <DIR>          FIS-99
+12/08/2022  20:54    <DIR>          INF-99
+12/08/2022  20:55    <DIR>          LIN-99
+12/08/2022  20:54    <DIR>          MAT-99
+               0 archivos              0 bytes
+               7 dirs  113.141.874.688 bytes libres
+
+C:\Users\user\Desktop\FCPN>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop\FCPN
+
+12/08/2022  20:56    <DIR>          .
+12/08/2022  20:56    <DIR>          ..
+12/08/2022  20:54    <DIR>          FIS-99
+12/08/2022  20:54    <DIR>          INF-99
+12/08/2022  20:55    <DIR>          LIN-99
+12/08/2022  20:54    <DIR>          MAT-99
+               0 archivos              0 bytes
+               6 dirs  113.129.484.288 bytes libres
+
+C:\Users\user\Desktop\FCPN>MKDIR INF-99\COM-99
+
+C:\Users\user\Desktop\FCPN>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop\FCPN
+
+12/08/2022  20:56    <DIR>          .
+12/08/2022  20:56    <DIR>          ..
+12/08/2022  20:54    <DIR>          FIS-99
+12/08/2022  20:57    <DIR>          INF-99
+12/08/2022  20:55    <DIR>          LIN-99
+12/08/2022  20:54    <DIR>          MAT-99
+               0 archivos              0 bytes
+               6 dirs  113.121.419.264 bytes libres
+
+C:\Users\user\Desktop\FCPN>cd IND-99
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\user\Desktop\FCPN>cd INF-99
+
+C:\Users\user\Desktop\FCPN\INF-99>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop\FCPN\INF-99
+
+12/08/2022  20:57    <DIR>          .
+12/08/2022  20:57    <DIR>          ..
+12/08/2022  20:57    <DIR>          COM-99
+               0 archivos              0 bytes
+               3 dirs  113.114.865.664 bytes libres
+
+C:\Users\user\Desktop\FCPN\INF-99>cd .
+
+C:\Users\user\Desktop\FCPN\INF-99>cd ..
+
+C:\Users\user\Desktop\FCPN>MKDIR MAT-99\GMT-99
+
+C:\Users\user\Desktop\FCPN>MKDIR FIS-99\QMC-99
+
+C:\Users\user\Desktop\FCPN>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop\FCPN
+
+12/08/2022  20:56    <DIR>          .
+12/08/2022  20:56    <DIR>          ..
+12/08/2022  21:00    <DIR>          FIS-99
+12/08/2022  20:57    <DIR>          INF-99
+12/08/2022  20:55    <DIR>          LIN-99
+12/08/2022  21:00    <DIR>          MAT-99
+               0 archivos              0 bytes
+               6 dirs  113.046.360.064 bytes libres
+
+C:\Users\user\Desktop\FCPN>dir -ls
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop\FCPN
+
+No se encuentra el archivo
+
+C:\Users\user\Desktop\FCPN>dir -s
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop\FCPN
+
+No se encuentra el archivo
+
+C:\Users\user\Desktop\FCPN>cd COM-99
+El sistema no puede encontrar la ruta especificada.
+
+C:\Users\user\Desktop\FCPN>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop\FCPN
+
+12/08/2022  20:56    <DIR>          .
+12/08/2022  20:56    <DIR>          ..
+12/08/2022  21:00    <DIR>          FIS-99
+12/08/2022  20:57    <DIR>          INF-99
+12/08/2022  20:55    <DIR>          LIN-99
+12/08/2022  21:00    <DIR>          MAT-99
+               0 archivos              0 bytes
+               6 dirs  113.006.473.216 bytes libres
+
+C:\Users\user\Desktop\FCPN>copy con INF-99\COM-99\cmd.txt
+start
+        1 archivo(s) copiado(s).
+
+C:\Users\user\Desktop\FCPN>ren
+
+C:\Users\user\Desktop\FCPN>ren INF-99\COM-99\cmd.txt INF-99\COM-99\cmd.bat
+La sintaxis del comando no es correcta.
+
+C:\Users\user\Desktop\FCPN>cd INF-99\COM-99
+
+C:\Users\user\Desktop\FCPN\INF-99\COM-99>ren cmd.txt cmd.bat
+
+C:\Users\user\Desktop\FCPN\INF-99\COM-99>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop\FCPN\INF-99\COM-99
+
+12/08/2022  21:05    <DIR>          .
+12/08/2022  21:05    <DIR>          ..
+12/08/2022  21:04                 7 cmd.bat
+               1 archivos              7 bytes
+               2 dirs  112.956.833.792 bytes libres
+
+C:\Users\user\Desktop\FCPN\INF-99\COM-99>cmd.bat
+
+C:\Users\user\Desktop\FCPN\INF-99\COM-99>start
+
+C:\Users\user\Desktop\FCPN\INF-99\COM-99>cd C:\Users\user\Desktop\FCPN
+
+C:\Users\user\Desktop\FCPN>cd C:\Users\user\Desktop\FCPN\MAT-99\GMT-99\
+
+C:\Users\user\Desktop\FCPN\MAT-99\GMT-99>copy con Mate.txt
+ME ENCANTA LA MATEMATICA :v
+        1 archivo(s) copiado(s).
+
+C:\Users\user\Desktop\FCPN\MAT-99\GMT-99>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop\FCPN\MAT-99\GMT-99
+
+12/08/2022  21:07    <DIR>          .
+12/08/2022  21:07    <DIR>          ..
+12/08/2022  21:07                29 Mate.txt
+               1 archivos             29 bytes
+               2 dirs  112.902.201.344 bytes libres
+
+C:\Users\user\Desktop\FCPN\MAT-99\GMT-99>Mate.txt
+
+C:\Users\user\Desktop\FCPN\MAT-99\GMT-99>mate.txt
+
+C:\Users\user\Desktop\FCPN\MAT-99\GMT-99>MaTE.txt
+
+C:\Users\user\Desktop\FCPN\MAT-99\GMT-99>
