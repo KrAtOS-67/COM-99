@@ -1,0 +1,17 @@
+ARP:direciones IP
+CHCP: Muestra o establece numero de paginas de codigos activos.
+CHDIR: Muestra  el nombre o cambia al directorio actual, igual que CD
+MKDIR: Para crear un directorio
+PATH: mustra o establece una ruta de busqueda para archivos ejecutables
+PROMPT: Cambia el simbolo de comandos de windows.
+RD /S: elimina el directorio y sus subdirectorios.
+REN: Renombra un archivo o un directorio
+SET: muestra, establece o quita variables de entorno de windows (set=muestra) se recomienda utilizar el help set para obsevar como funciona
+TIME: muestra o establece la hora del sistema
+CLS: Borra y aclara los simbolos o texto en la pantalla
+COPY: copiar uno o mas archivos en otra ubicacion
+DATE: nos muestra la fecha acutal y se puede modificar la fecha
+XCOPY: Copia archivos y árboles de directorios. ejemplo: (xcopy <origen> <destino> /E/H/C/I )
+
+ARCHIVO: un archivo es todo aquello que tiene una extencion definida ejemplo: .txt, .py, .cpp, y entre otros.
+DIRECTORIO: es aquel que no tiene una extencion.

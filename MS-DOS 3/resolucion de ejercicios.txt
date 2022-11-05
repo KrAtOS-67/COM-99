@@ -1,0 +1,1119 @@
+Microsoft Windows [Versión 10.0.19044.1889]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\user>label C:
+El volumen de la unidad C: no tiene etiqueta
+El número de serie del volumen es B668-18C6
+Escriba una etiqueta de volumen (32 caracteres, Entrar para ninguna) Disco local1
+Se denegó el acceso porque no tienes suficientes privilegios o
+el disco podría estar bloqueado por otro proceso.
+Invoca esta utilidad ejecutándola en modo elevado
+y asegúrate de que el disco esté desbloqueado.
+
+C:\Users\user>label F:
+El volumen de la unidad F: es Nuevo vol
+El número de serie del volumen es D458-8DD4
+Escriba una etiqueta de volumen (32 caracteres, Entrar para ninguna) Nuevo vol1
+Se denegó el acceso porque no tienes suficientes privilegios o
+el disco podría estar bloqueado por otro proceso.
+Invoca esta utilidad ejecutándola en modo elevado
+y asegúrate de que el disco esté desbloqueado.
+
+C:\Users\user>label
+El volumen de la unidad C: no tiene etiqueta
+El número de serie del volumen es B668-18C6
+Escriba una etiqueta de volumen (32 caracteres, Entrar para ninguna) ^B
+Se denegó el acceso porque no tienes suficientes privilegios o
+el disco podría estar bloqueado por otro proceso.
+Invoca esta utilidad ejecutándola en modo elevado
+y asegúrate de que el disco esté desbloqueado.
+
+C:\Users\user>dir C:
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user
+
+25/06/2022  19:05    <DIR>          .
+25/06/2022  19:05    <DIR>          ..
+23/05/2022  15:27             6.903 -1.14-windows.xml
+03/05/2022  11:49    <DIR>          .cache
+03/05/2022  11:49    <DIR>          .eclipse
+01/05/2022  13:13    <DIR>          .ipython
+09/05/2022  17:54    <DIR>          .jupyter
+02/05/2022  22:25    <DIR>          .m2
+01/05/2022  13:13    <DIR>          .matplotlib
+01/05/2022  12:07    <DIR>          .nbi
+21/08/2022  11:58    <DIR>          .p2
+20/08/2022  20:52    <DIR>          .spyder-py3
+31/05/2022  22:19    <DIR>          .vscode
+08/10/2021  16:35    <DIR>          3D Objects
+08/10/2021  16:35    <DIR>          Contacts
+25/08/2022  21:47    <DIR>          Desktop
+18/08/2022  17:11    <DIR>          Documents
+26/08/2022  19:55    <DIR>          Downloads
+08/10/2021  16:35    <DIR>          Favorites
+25/06/2022  19:05    <DIR>          Hydra
+01/05/2022  13:14    <DIR>          Jedi
+08/10/2021  16:35    <DIR>          Links
+08/10/2021  16:35    <DIR>          Music
+08/10/2021  16:38    <DIR>          OneDrive
+24/05/2022  19:48    <DIR>          Pictures
+23/06/2022  10:15    <DIR>          pseint
+08/10/2021  16:35    <DIR>          Saved Games
+08/10/2021  16:37    <DIR>          Searches
+12/08/2022  19:55    <DIR>          Videos
+               1 archivos          6.903 bytes
+              28 dirs  113.516.814.336 bytes libres
+
+C:\Users\user>-S
+"-S" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\user>sort
+s
+s
+d
+sad
+asd
+s
+s
+sad
+
+C:\Users\user>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user
+
+25/06/2022  19:05    <DIR>          .
+25/06/2022  19:05    <DIR>          ..
+23/05/2022  15:27             6.903 -1.14-windows.xml
+03/05/2022  11:49    <DIR>          .cache
+03/05/2022  11:49    <DIR>          .eclipse
+01/05/2022  13:13    <DIR>          .ipython
+09/05/2022  17:54    <DIR>          .jupyter
+02/05/2022  22:25    <DIR>          .m2
+01/05/2022  13:13    <DIR>          .matplotlib
+01/05/2022  12:07    <DIR>          .nbi
+21/08/2022  11:58    <DIR>          .p2
+20/08/2022  20:52    <DIR>          .spyder-py3
+31/05/2022  22:19    <DIR>          .vscode
+08/10/2021  16:35    <DIR>          3D Objects
+08/10/2021  16:35    <DIR>          Contacts
+25/08/2022  21:47    <DIR>          Desktop
+18/08/2022  17:11    <DIR>          Documents
+26/08/2022  19:55    <DIR>          Downloads
+08/10/2021  16:35    <DIR>          Favorites
+25/06/2022  19:05    <DIR>          Hydra
+01/05/2022  13:14    <DIR>          Jedi
+08/10/2021  16:35    <DIR>          Links
+08/10/2021  16:35    <DIR>          Music
+08/10/2021  16:38    <DIR>          OneDrive
+24/05/2022  19:48    <DIR>          Pictures
+23/06/2022  10:15    <DIR>          pseint
+08/10/2021  16:35    <DIR>          Saved Games
+08/10/2021  16:37    <DIR>          Searches
+12/08/2022  19:55    <DIR>          Videos
+               1 archivos          6.903 bytes
+              28 dirs  113.514.278.912 bytes libres
+
+C:\Users\user>help sort
+SORT [/R] [/+n] [/M kilobytes] [/L config. reg.] [/REC bytesregistrados]
+  [[unidad1:][ruta1]nombre_archivo1] [/T [unidad2:] [ruta2]]
+  [/O [unidad3:][ruta3] nombre_archivo3]
+  /+n                 Especifica el número de carácter, n, para empezar
+                      cada comparación. /+3 indica que cada comparación
+                      debería empezar en el tercer carácter de cada línea.
+                      Las líneas con menos de n caracteres se intercalan
+                      antes que otras líneas. De forma predeterminada, las
+                      comparaciones empiezan en el primer carácter de cada
+                      línea.
+  /L[OCALE] config. reg. Invalida la configuración regional predeterminada
+                      del sistema con la ya especificada. La configuración
+                      regional ""C"" cede el paso a la secuencia intercalada
+                      más rápida y actualmente es la única alternativa.
+                      El orden siempre distingue mayúsculas y minúsculas.
+  /M[EMORY] kilobytes Especifica la cantidad de memoria principal que
+                      hay que usar para el orden, en  kilobytes. El tamaño
+                      de la memoria está siempre delimitada a ser un mínimo
+                      de 160 kilobytes. Si se especifica el tamaño de la
+                      memoria, se usará la cantidad exacta para el orden
+                      independientemente de cuanta memoria esté disponible.
+                      Normalmente se alcanza el mejor rendimiento si no se
+                      especifica el tamaño de la memoria. De forma
+                      predeterminada, se hará el orden con un paso (no
+                      archivo temporal) si se ajusta al tamaño máximo
+                      predeterminado de la memoria; de lo contrario el
+                      orden se hará en dos pasos (con los datos
+                      parcialmente ordenados y acumulados en un archivo
+                      temporal) de lo contrario el orden se hará de tal
+                      manera que la cantidad de memoria usada para los dos
+                      pasos, el orden y la combinación será igual.
+                      De forma predeterminada, el tamaño máximo de
+                      memoria es 90% de la memoria principal disponible
+                      si la entrada y la salida son archivos, o sino
+                      45% de memoria principal.
+  /REC[ORD_MAXIMUM] caracteres   Especifica el máximo número de caracteres
+                                 en un registro (predeterminado 4096, máximo
+                                 65535).
+  /R[EVERSE]                     Invierte el orden que es de Z a A, después
+                                 de 9 a 0.
+  [unidad1:][ruta1]archivo1      Especifica el archivo que debe ser ordenado.
+                                 Si no está especificado, se ordena la
+                                 entrada especificada. Especificar el archivo
+                                 de entrada es más rápido que redirigir el
+                                 mismo archivo como entrada estándar.
+  /T[EMPORARY]
+    [unidad2:][ruta2]            Especifica la ruta del directorio para
+                                 mantener el almacenamiento de la tarea de
+                                 ordenación en caso de que los datos no se
+                                 ajusten en la memoria principal. De forma
+                                 predeterminada, se usa el directorio
+                                 temporal del sistema.
+  /O[UTPUT]
+    [unidad3:][ruta3]archivo3    Especifica el archivo donde se va a
+                                 almacenar la entrada ordenada. Si no se
+                                 especifica, los datos se escriben en la
+                                 salida estándar. Especificar el archivo de
+                                 salida es más rápido que redirigir la salida
+                                 estándar en el mismo archivo.
+
+
+C:\Users\user>help dir
+Muestra la lista de subdirectorios y archivos de un directorio.
+
+DIR [drive:][path][filename] [/A[[:]attributes]] [/B] [/C] [/D] [/L] [/N]
+  [/O[[:]sortorder]] [/P] [/Q] [/R] [/S] [/T[[:]timefield]] [/W] [/X] [/4]
+
+  [drive:][path][filename]
+              Especifica la unidad, el directorio o los archivos que se mostrarán.
+
+  /A          Muestra los archivos con los atributos especificados.
+  Atributos    D  Directorios             R  Archivos de solo lectura
+               H  Archivos ocultos        A  Archivos listos para el archivado
+               S  Archivos de sistema     I  Archivos indizados que no son de contenido
+               L  Puntos de reanálisis             O  Archivos sin conexión
+               -  Prefijo de exclusión
+  /B          Usa el formato simple (sin encabezados ni resúmenes).
+  /C          Muestra el separador de miles en los tamaños de los archivos. Es la opción
+              predeterminada. Usa /-C para deshabilitar la aparición del separador.
+  /D          Similar al listado ancho, pero los archivos aparecen en una lista ordenada por columnas.
+  /L          Usa letras minúsculas.
+  /N          Nuevo formato de lista larga donde los nombre de archivo aparecen en el lado derecho.
+  /O          Muestra los archivos según el orden indicado.
+  sortorder        N  Por nombre (orden alfabético)       S  Por tamaño (orden creciente)
+               E  Por extensión (orden alfabético)  D  Por fecha y hora (el más antiguo primero)
+               G  Agrupa primero los directorios -  Prefijo para invertir el orden
+  /P          Hace una pausa después de cada pantalla completa de información.
+  /Q          Muestra el propietario del archivo.
+  /R          Muestra las secuencias alternativas de datos del archivo.
+  /S          Muestra los archivos del directorio especificado y todos sus subdirectorios.
+  /T          Controla el campo de hora que se mostrará o usará para realizar la ordenación.
+  timefield       C  Creación
+              A  Último acceso
+              W  Última modificación
+  /W          Usa el formato de listado ancho.
+  /X          Muestra los nombres cortos generados para los nombres
+              de archivo sin formato 8dot3. El formato es el mismo que para /N, con el nombre corto especificado
+              antes del nombre largo. Si no existe ningún nombre corto, se muestran
+              espacios en blanco en su lugar.
+  /4          Muestra los años con 4 dígitos.
+
+Los modificadores se pueden preestablecer en la variable de entorno DIRCMD.
+Para invalidar los modificadores prestablecidos, se debe agregar un prefijo a cada modificador con - (guión), por ejemplo: /-W.
+
+C:\Users\user>dir sortorder /S
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+No se encuentra el archivo
+
+C:\Users\user>
+C:\Users\user>dir sortorder /S
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+No se encuentra el archivo
+
+C:\Users\user>dir g sortorder /S
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+No se encuentra el archivo
+
+C:\Users\user>cd desktop
+
+C:\Users\user\Desktop>dir g sortorder /S
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+No se encuentra el archivo
+
+C:\Users\user\Desktop>dir /O:E
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+25/08/2022  21:47    <DIR>          .
+25/08/2022  21:47    <DIR>          ..
+08/10/2021  17:19    <DIR>          Programs
+21/08/2022  17:41    <DIR>          143
+13/08/2022  16:42    <DIR>          4EjemplosBacktracking
+06/08/2022  18:34    <DIR>          para programar php
+17/08/2022  22:16    <DIR>          PAPELES AUXILIATURA IMPORTANTE
+12/08/2022  21:28    <DIR>          MS_DOS
+15/08/2022  10:10    <DIR>          archivos otros
+20/08/2022  21:00    <DIR>          Auxiliatura 2_2022
+19/08/2022  21:04    <DIR>          MS-DOS 2
+16/08/2022  23:12    <DIR>          C++
+15/07/2022  12:47    <DIR>          ListaSimpleEstudiantes
+05/08/2022  20:13    <DIR>          temporada 131
+12/08/2022  22:20    <DIR>          JUEZ PATITO PYTHON
+20/08/2022  21:37    <DIR>          CONTEST_2
+25/08/2022  15:10    <DIR>          prote
+05/08/2022  20:13    <DIR>          Estadistica1
+21/08/2022  11:58    <DIR>          EJercicios Juez Patito Java
+09/07/2022  22:16    <DIR>          ejercicio2
+22/08/2022  11:56            12.873 EJERCICIO 2 144.docx
+12/08/2022  21:11            27.519 COMANDOS_CMD.docx
+06/08/2022  20:22             1.149 Untitled.ipynb
+06/08/2022  22:42    <DIR>          .ipynb_checkpoints
+01/06/2022  01:16             1.029 Telegram.lnk
+06/07/2022  19:06             1.315 StatisticsFormulas.lnk
+06/07/2022  19:05             1.243 StatisticsCalculator.lnk
+06/07/2022  19:39             1.327 Statistics.lnk
+01/05/2022  13:12             1.048 Spyder.lnk
+10/08/2022  21:27             2.226 Discord.lnk
+01/05/2022  11:50               773 Eclipse IDE for Java Developers - 2022-03.lnk
+02/05/2022  13:10               649 Rockstar Games Launcher.lnk
+24/08/2022  10:17             2.390 KELVIN BOHN DAVISSON - Chrome.lnk
+01/05/2022  13:15             1.803 League of Legends.lnk
+04/07/2022  23:14             1.263 ClashRoyale.lnk
+07/05/2022  10:54             1.476 matlab - Acceso directo.lnk
+25/08/2022  21:47             2.355 Microsoft Teams.lnk
+30/04/2022  18:29               879 MinGW Installer.lnk
+06/07/2022  19:11             1.251 IntroStat.lnk
+01/05/2022  12:05             1.247 Apache NetBeans IDE 13.lnk
+16/06/2022  13:53             1.263 AmongUs.lnk
+02/05/2022  23:33             1.749 VALORANT.lnk
+16/05/2022  17:47             2.632 photoshop.lnk
+02/05/2022  11:44               993 Polyspace R2019a.lnk
+24/05/2022  19:13               941 Riot Client.lnk
+23/06/2022  08:15               731 PSeInt.lnk
+30/04/2022  18:21               924 Sublime Text.lnk
+03/08/2022  22:05             1.267 StumbleGuys.lnk
+04/07/2022  12:37             1.928 Zoom.lnk
+17/08/2022  02:29           351.699 inf 112.pdf
+09/07/2022  22:39               739 ejercicio1.py
+09/07/2022  22:38               739 programa.py
+13/08/2022  22:23         1.643.746 IMAGENES ALEX.rar
+17/08/2022  22:17               195 datos.txt
+15/08/2022  10:20             1.810 Juez Patito.txt
+15/08/2022  11:25             1.541 codigo2347c++.txt
+19/08/2022  21:27                 0 programa.txt
+02/05/2022  07:55               380 Grand Theft Auto V.url
+06/05/2022  22:08               380 Rocket League®.url
+02/05/2022  21:14               380 VALORANT.url
+24/06/2022  18:01               391 Fall Guys.url
+02/05/2022  11:28               366 Fortnite.url
+30/06/2022  00:44            34.058 bien.webp
+13/08/2022  16:42           553.032 4EjemplosBacktracking.zip
+              43 archivos      2.665.699 bytes
+              21 dirs  113.502.994.432 bytes libres
+
+C:\Users\user\Desktop>DIR /O:g
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+25/08/2022  21:47    <DIR>          .
+25/08/2022  21:47    <DIR>          ..
+06/08/2022  22:42    <DIR>          .ipynb_checkpoints
+21/08/2022  17:41    <DIR>          143
+13/08/2022  16:42    <DIR>          4EjemplosBacktracking
+25/08/2022  15:10    <DIR>          prote
+08/10/2021  17:19    <DIR>          Programs
+06/08/2022  18:34    <DIR>          para programar php
+15/08/2022  10:10    <DIR>          archivos otros
+20/08/2022  21:00    <DIR>          Auxiliatura 2_2022
+17/08/2022  22:16    <DIR>          PAPELES AUXILIATURA IMPORTANTE
+16/08/2022  23:12    <DIR>          C++
+12/08/2022  21:28    <DIR>          MS_DOS
+19/08/2022  21:04    <DIR>          MS-DOS 2
+15/07/2022  12:47    <DIR>          ListaSimpleEstudiantes
+20/08/2022  21:37    <DIR>          CONTEST_2
+12/08/2022  22:20    <DIR>          JUEZ PATITO PYTHON
+05/08/2022  20:13    <DIR>          Estadistica1
+21/08/2022  11:58    <DIR>          EJercicios Juez Patito Java
+09/07/2022  22:16    <DIR>          ejercicio2
+05/08/2022  20:13    <DIR>          temporada 131
+22/08/2022  11:56            12.873 EJERCICIO 2 144.docx
+01/05/2022  11:50               773 Eclipse IDE for Java Developers - 2022-03.lnk
+10/08/2022  21:27             2.226 Discord.lnk
+24/06/2022  18:01               391 Fall Guys.url
+02/05/2022  11:28               366 Fortnite.url
+02/05/2022  07:55               380 Grand Theft Auto V.url
+13/08/2022  22:23         1.643.746 IMAGENES ALEX.rar
+17/08/2022  02:29           351.699 inf 112.pdf
+06/07/2022  19:11             1.251 IntroStat.lnk
+17/08/2022  22:17               195 datos.txt
+15/08/2022  10:20             1.810 Juez Patito.txt
+24/08/2022  10:17             2.390 KELVIN BOHN DAVISSON - Chrome.lnk
+01/05/2022  13:15             1.803 League of Legends.lnk
+12/08/2022  21:11            27.519 COMANDOS_CMD.docx
+07/05/2022  10:54             1.476 matlab - Acceso directo.lnk
+25/08/2022  21:47             2.355 Microsoft Teams.lnk
+30/04/2022  18:29               879 MinGW Installer.lnk
+15/08/2022  11:25             1.541 codigo2347c++.txt
+04/07/2022  23:14             1.263 ClashRoyale.lnk
+30/06/2022  00:44            34.058 bien.webp
+01/05/2022  12:05             1.247 Apache NetBeans IDE 13.lnk
+16/05/2022  17:47             2.632 photoshop.lnk
+02/05/2022  11:44               993 Polyspace R2019a.lnk
+09/07/2022  22:38               739 programa.py
+19/08/2022  21:27                 0 programa.txt
+16/06/2022  13:53             1.263 AmongUs.lnk
+13/08/2022  16:42           553.032 4EjemplosBacktracking.zip
+23/06/2022  08:15               731 PSeInt.lnk
+24/05/2022  19:13               941 Riot Client.lnk
+06/05/2022  22:08               380 Rocket League®.url
+02/05/2022  13:10               649 Rockstar Games Launcher.lnk
+01/05/2022  13:12             1.048 Spyder.lnk
+06/07/2022  19:39             1.327 Statistics.lnk
+06/07/2022  19:05             1.243 StatisticsCalculator.lnk
+06/07/2022  19:06             1.315 StatisticsFormulas.lnk
+03/08/2022  22:05             1.267 StumbleGuys.lnk
+30/04/2022  18:21               924 Sublime Text.lnk
+01/06/2022  01:16             1.029 Telegram.lnk
+09/07/2022  22:39               739 ejercicio1.py
+06/08/2022  20:22             1.149 Untitled.ipynb
+02/05/2022  23:33             1.749 VALORANT.lnk
+02/05/2022  21:14               380 VALORANT.url
+04/07/2022  12:37             1.928 Zoom.lnk
+              43 archivos      2.665.699 bytes
+              21 dirs  113.502.928.896 bytes libres
+
+C:\Users\user\Desktop>dir sorted:S
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+No se encuentra el archivo
+
+C:\Users\user\Desktop>DIR /O:S
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+25/08/2022  21:47    <DIR>          .
+25/08/2022  21:47    <DIR>          ..
+06/08/2022  22:42    <DIR>          .ipynb_checkpoints
+21/08/2022  17:41    <DIR>          143
+13/08/2022  16:42    <DIR>          4EjemplosBacktracking
+19/08/2022  21:04    <DIR>          MS-DOS 2
+12/08/2022  21:28    <DIR>          MS_DOS
+12/08/2022  22:20    <DIR>          JUEZ PATITO PYTHON
+15/08/2022  10:10    <DIR>          archivos otros
+20/08/2022  21:00    <DIR>          Auxiliatura 2_2022
+17/08/2022  22:16    <DIR>          PAPELES AUXILIATURA IMPORTANTE
+16/08/2022  23:12    <DIR>          C++
+25/08/2022  15:10    <DIR>          prote
+08/10/2021  17:19    <DIR>          Programs
+19/08/2022  21:27                 0 programa.txt
+20/08/2022  21:37    <DIR>          CONTEST_2
+06/08/2022  18:34    <DIR>          para programar php
+05/08/2022  20:13    <DIR>          temporada 131
+05/08/2022  20:13    <DIR>          Estadistica1
+21/08/2022  11:58    <DIR>          EJercicios Juez Patito Java
+09/07/2022  22:16    <DIR>          ejercicio2
+15/07/2022  12:47    <DIR>          ListaSimpleEstudiantes
+17/08/2022  22:17               195 datos.txt
+02/05/2022  11:28               366 Fortnite.url
+06/05/2022  22:08               380 Rocket League®.url
+02/05/2022  07:55               380 Grand Theft Auto V.url
+02/05/2022  21:14               380 VALORANT.url
+24/06/2022  18:01               391 Fall Guys.url
+02/05/2022  13:10               649 Rockstar Games Launcher.lnk
+23/06/2022  08:15               731 PSeInt.lnk
+09/07/2022  22:38               739 programa.py
+09/07/2022  22:39               739 ejercicio1.py
+01/05/2022  11:50               773 Eclipse IDE for Java Developers - 2022-03.lnk
+30/04/2022  18:29               879 MinGW Installer.lnk
+30/04/2022  18:21               924 Sublime Text.lnk
+24/05/2022  19:13               941 Riot Client.lnk
+02/05/2022  11:44               993 Polyspace R2019a.lnk
+01/06/2022  01:16             1.029 Telegram.lnk
+01/05/2022  13:12             1.048 Spyder.lnk
+06/08/2022  20:22             1.149 Untitled.ipynb
+06/07/2022  19:05             1.243 StatisticsCalculator.lnk
+01/05/2022  12:05             1.247 Apache NetBeans IDE 13.lnk
+06/07/2022  19:11             1.251 IntroStat.lnk
+16/06/2022  13:53             1.263 AmongUs.lnk
+04/07/2022  23:14             1.263 ClashRoyale.lnk
+03/08/2022  22:05             1.267 StumbleGuys.lnk
+06/07/2022  19:06             1.315 StatisticsFormulas.lnk
+06/07/2022  19:39             1.327 Statistics.lnk
+07/05/2022  10:54             1.476 matlab - Acceso directo.lnk
+15/08/2022  11:25             1.541 codigo2347c++.txt
+02/05/2022  23:33             1.749 VALORANT.lnk
+01/05/2022  13:15             1.803 League of Legends.lnk
+15/08/2022  10:20             1.810 Juez Patito.txt
+04/07/2022  12:37             1.928 Zoom.lnk
+10/08/2022  21:27             2.226 Discord.lnk
+25/08/2022  21:47             2.355 Microsoft Teams.lnk
+24/08/2022  10:17             2.390 KELVIN BOHN DAVISSON - Chrome.lnk
+16/05/2022  17:47             2.632 photoshop.lnk
+22/08/2022  11:56            12.873 EJERCICIO 2 144.docx
+12/08/2022  21:11            27.519 COMANDOS_CMD.docx
+30/06/2022  00:44            34.058 bien.webp
+17/08/2022  02:29           351.699 inf 112.pdf
+13/08/2022  16:42           553.032 4EjemplosBacktracking.zip
+13/08/2022  22:23         1.643.746 IMAGENES ALEX.rar
+              43 archivos      2.665.699 bytes
+              21 dirs  113.502.855.168 bytes libres
+
+C:\Users\user\Desktop>DIR /O:N <g>
+La sintaxis del comando no es correcta.
+
+C:\Users\user\Desktop>DIR /O:N g
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+No se encuentra el archivo
+
+C:\Users\user\Desktop>DIR /O:S /X
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+25/08/2022  21:47    <DIR>                       .
+25/08/2022  21:47    <DIR>                       ..
+06/08/2022  22:42    <DIR>          IPYNB_~1     .ipynb_checkpoints
+21/08/2022  17:41    <DIR>                       143
+13/08/2022  16:42    <DIR>          4EJEMP~1     4EjemplosBacktracking
+19/08/2022  21:04    <DIR>          MS-DOS~1     MS-DOS 2
+12/08/2022  21:28    <DIR>                       MS_DOS
+12/08/2022  22:20    <DIR>          JUEZPA~1     JUEZ PATITO PYTHON
+15/08/2022  10:10    <DIR>          ARCHIV~1     archivos otros
+20/08/2022  21:00    <DIR>          AUXILI~1     Auxiliatura 2_2022
+17/08/2022  22:16    <DIR>          PAPELE~1     PAPELES AUXILIATURA IMPORTANTE
+16/08/2022  23:12    <DIR>          C__~1        C++
+25/08/2022  15:10    <DIR>                       prote
+08/10/2021  17:19    <DIR>                       Programs
+19/08/2022  21:27                 0              programa.txt
+20/08/2022  21:37    <DIR>          CONTES~1     CONTEST_2
+06/08/2022  18:34    <DIR>          PARAPR~1     para programar php
+05/08/2022  20:13    <DIR>          TEMPOR~1     temporada 131
+05/08/2022  20:13    <DIR>          ESTADI~1     Estadistica1
+21/08/2022  11:58    <DIR>          EJERCI~2     EJercicios Juez Patito Java
+09/07/2022  22:16    <DIR>          EJERCI~1     ejercicio2
+15/07/2022  12:47    <DIR>          LISTAS~1     ListaSimpleEstudiantes
+17/08/2022  22:17               195              datos.txt
+02/05/2022  11:28               366              Fortnite.url
+06/05/2022  22:08               380 ROCKET~1.URL Rocket League®.url
+02/05/2022  07:55               380 GRANDT~1.URL Grand Theft Auto V.url
+02/05/2022  21:14               380              VALORANT.url
+24/06/2022  18:01               391 FALLGU~1.URL Fall Guys.url
+02/05/2022  13:10               649 ROCKST~1.LNK Rockstar Games Launcher.lnk
+23/06/2022  08:15               731              PSeInt.lnk
+09/07/2022  22:38               739              programa.py
+09/07/2022  22:39               739 EJERCI~1.PY  ejercicio1.py
+01/05/2022  11:50               773 ECLIPS~1.LNK Eclipse IDE for Java Developers - 2022-03.lnk
+30/04/2022  18:29               879 MINGWI~1.LNK MinGW Installer.lnk
+30/04/2022  18:21               924 SUBLIM~1.LNK Sublime Text.lnk
+24/05/2022  19:13               941 RIOTCL~1.LNK Riot Client.lnk
+02/05/2022  11:44               993 POLYSP~1.LNK Polyspace R2019a.lnk
+01/06/2022  01:16             1.029              Telegram.lnk
+01/05/2022  13:12             1.048              Spyder.lnk
+06/08/2022  20:22             1.149 UNTITL~1.IPY Untitled.ipynb
+06/07/2022  19:05             1.243 STATIS~1.LNK StatisticsCalculator.lnk
+01/05/2022  12:05             1.247 APACHE~1.LNK Apache NetBeans IDE 13.lnk
+06/07/2022  19:11             1.251 INTROS~1.LNK IntroStat.lnk
+16/06/2022  13:53             1.263              AmongUs.lnk
+04/07/2022  23:14             1.263 CLASHR~1.LNK ClashRoyale.lnk
+03/08/2022  22:05             1.267 STUMBL~1.LNK StumbleGuys.lnk
+06/07/2022  19:06             1.315 STATIS~2.LNK StatisticsFormulas.lnk
+06/07/2022  19:39             1.327 STATIS~3.LNK Statistics.lnk
+07/05/2022  10:54             1.476 MATLAB~1.LNK matlab - Acceso directo.lnk
+15/08/2022  11:25             1.541 CODIGO~1.TXT codigo2347c++.txt
+02/05/2022  23:33             1.749              VALORANT.lnk
+01/05/2022  13:15             1.803 LEAGUE~1.LNK League of Legends.lnk
+15/08/2022  10:20             1.810 JUEZPA~1.TXT Juez Patito.txt
+04/07/2022  12:37             1.928              Zoom.lnk
+10/08/2022  21:27             2.226              Discord.lnk
+25/08/2022  21:47             2.355 MICROS~1.LNK Microsoft Teams.lnk
+24/08/2022  10:17             2.390 KELVIN~1.LNK KELVIN BOHN DAVISSON - Chrome.lnk
+16/05/2022  17:47             2.632 PHOTOS~1.LNK photoshop.lnk
+22/08/2022  11:56            12.873 EJERCI~1.DOC EJERCICIO 2 144.docx
+12/08/2022  21:11            27.519 COMAND~1.DOC COMANDOS_CMD.docx
+30/06/2022  00:44            34.058 BIEN~1.WEB   bien.webp
+17/08/2022  02:29           351.699 INF112~1.PDF inf 112.pdf
+13/08/2022  16:42           553.032 4EJEMP~1.ZIP 4EjemplosBacktracking.zip
+13/08/2022  22:23         1.643.746 IMAGEN~1.RAR IMAGENES ALEX.rar
+              43 archivos      2.665.699 bytes
+              21 dirs  113.508.069.376 bytes libres
+
+C:\Users\user\Desktop>DIR read *g* /O:S
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+
+ Directorio de C:\Users\user\Desktop
+
+13/08/2022  16:42    <DIR>          4EjemplosBacktracking
+19/08/2022  21:27                 0 programa.txt
+06/08/2022  18:34    <DIR>          para programar php
+08/10/2021  17:19    <DIR>          Programs
+06/05/2022  22:08               380 Rocket League®.url
+02/05/2022  07:55               380 Grand Theft Auto V.url
+24/06/2022  18:01               391 Fall Guys.url
+02/05/2022  13:10               649 Rockstar Games Launcher.lnk
+09/07/2022  22:38               739 programa.py
+30/04/2022  18:29               879 MinGW Installer.lnk
+01/06/2022  01:16             1.029 Telegram.lnk
+16/06/2022  13:53             1.263 AmongUs.lnk
+03/08/2022  22:05             1.267 StumbleGuys.lnk
+15/08/2022  11:25             1.541 codigo2347c++.txt
+01/05/2022  13:15             1.803 League of Legends.lnk
+13/08/2022  16:42           553.032 4EjemplosBacktracking.zip
+13/08/2022  22:23         1.643.746 IMAGENES ALEX.rar
+              14 archivos      2.207.099 bytes
+               3 dirs  113.507.938.304 bytes libres
+
+C:\Users\user\Desktop>DIR read *g* /O:-S
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+
+ Directorio de C:\Users\user\Desktop
+
+13/08/2022  22:23         1.643.746 IMAGENES ALEX.rar
+13/08/2022  16:42           553.032 4EjemplosBacktracking.zip
+01/05/2022  13:15             1.803 League of Legends.lnk
+15/08/2022  11:25             1.541 codigo2347c++.txt
+03/08/2022  22:05             1.267 StumbleGuys.lnk
+16/06/2022  13:53             1.263 AmongUs.lnk
+01/06/2022  01:16             1.029 Telegram.lnk
+30/04/2022  18:29               879 MinGW Installer.lnk
+09/07/2022  22:38               739 programa.py
+02/05/2022  13:10               649 Rockstar Games Launcher.lnk
+24/06/2022  18:01               391 Fall Guys.url
+06/05/2022  22:08               380 Rocket League®.url
+02/05/2022  07:55               380 Grand Theft Auto V.url
+08/10/2021  17:19    <DIR>          Programs
+19/08/2022  21:27                 0 programa.txt
+06/08/2022  18:34    <DIR>          para programar php
+13/08/2022  16:42    <DIR>          4EjemplosBacktracking
+              14 archivos      2.207.099 bytes
+               3 dirs  113.508.495.360 bytes libres
+
+C:\Users\user\Desktop>DIR read *g /O:-S
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+
+ Directorio de C:\Users\user\Desktop
+
+13/08/2022  16:42    <DIR>          4EjemplosBacktracking
+               0 archivos              0 bytes
+               1 dirs  113.508.495.360 bytes libres
+
+C:\Users\user\Desktop>DIR read g* /O:-S
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+
+ Directorio de C:\Users\user\Desktop
+
+02/05/2022  07:55               380 Grand Theft Auto V.url
+               1 archivos            380 bytes
+               0 dirs  113.508.495.360 bytes libres
+
+C:\Users\user\Desktop>DIR read g* /O:S
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+
+ Directorio de C:\Users\user\Desktop
+
+02/05/2022  07:55               380 Grand Theft Auto V.url
+               1 archivos            380 bytes
+               0 dirs  113.508.495.360 bytes libres
+
+C:\Users\user\Desktop>DIR read g* /O:S
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+
+ Directorio de C:\Users\user\Desktop
+
+26/08/2022  20:26    <DIR>          ganador
+26/08/2022  20:27                 0 geniop.txt
+26/08/2022  20:26    <DIR>          gama
+02/05/2022  07:55               380 Grand Theft Auto V.url
+               2 archivos            380 bytes
+               2 dirs  113.512.423.424 bytes libres
+
+C:\Users\user\Desktop>DIR read g* /O:S
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+
+ Directorio de C:\Users\user\Desktop
+
+26/08/2022  20:26    <DIR>          ganador
+26/08/2022  20:27                 0 geniop.txt
+26/08/2022  20:26    <DIR>          gama
+02/05/2022  07:55               380 Grand Theft Auto V.url
+               2 archivos            380 bytes
+               2 dirs  113.512.292.352 bytes libres
+
+C:\Users\user\Desktop>dir help
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+No se encuentra el archivo
+
+C:\Users\user\Desktop>help dir
+Muestra la lista de subdirectorios y archivos de un directorio.
+
+DIR [drive:][path][filename] [/A[[:]attributes]] [/B] [/C] [/D] [/L] [/N]
+  [/O[[:]sortorder]] [/P] [/Q] [/R] [/S] [/T[[:]timefield]] [/W] [/X] [/4]
+
+  [drive:][path][filename]
+              Especifica la unidad, el directorio o los archivos que se mostrarán.
+
+  /A          Muestra los archivos con los atributos especificados.
+  Atributos    D  Directorios             R  Archivos de solo lectura
+               H  Archivos ocultos        A  Archivos listos para el archivado
+               S  Archivos de sistema     I  Archivos indizados que no son de contenido
+               L  Puntos de reanálisis             O  Archivos sin conexión
+               -  Prefijo de exclusión
+  /B          Usa el formato simple (sin encabezados ni resúmenes).
+  /C          Muestra el separador de miles en los tamaños de los archivos. Es la opción
+              predeterminada. Usa /-C para deshabilitar la aparición del separador.
+  /D          Similar al listado ancho, pero los archivos aparecen en una lista ordenada por columnas.
+  /L          Usa letras minúsculas.
+  /N          Nuevo formato de lista larga donde los nombre de archivo aparecen en el lado derecho.
+  /O          Muestra los archivos según el orden indicado.
+  sortorder        N  Por nombre (orden alfabético)       S  Por tamaño (orden creciente)
+               E  Por extensión (orden alfabético)  D  Por fecha y hora (el más antiguo primero)
+               G  Agrupa primero los directorios -  Prefijo para invertir el orden
+  /P          Hace una pausa después de cada pantalla completa de información.
+  /Q          Muestra el propietario del archivo.
+  /R          Muestra las secuencias alternativas de datos del archivo.
+  /S          Muestra los archivos del directorio especificado y todos sus subdirectorios.
+  /T          Controla el campo de hora que se mostrará o usará para realizar la ordenación.
+  timefield       C  Creación
+              A  Último acceso
+              W  Última modificación
+  /W          Usa el formato de listado ancho.
+  /X          Muestra los nombres cortos generados para los nombres
+              de archivo sin formato 8dot3. El formato es el mismo que para /N, con el nombre corto especificado
+              antes del nombre largo. Si no existe ningún nombre corto, se muestran
+              espacios en blanco en su lugar.
+  /4          Muestra los años con 4 dígitos.
+
+Los modificadores se pueden preestablecer en la variable de entorno DIRCMD.
+Para invalidar los modificadores prestablecidos, se debe agregar un prefijo a cada modificador con - (guión), por ejemplo: /-W.
+
+C:\Users\user\Desktop>dir read a*
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+
+ Directorio de C:\Users\user\Desktop
+
+16/06/2022  13:53             1.263 AmongUs.lnk
+01/05/2022  12:05             1.247 Apache NetBeans IDE 13.lnk
+15/08/2022  10:10    <DIR>          archivos otros
+20/08/2022  21:00    <DIR>          Auxiliatura 2_2022
+               2 archivos          2.510 bytes
+               2 dirs  113.512.050.688 bytes libres
+
+C:\Users\user\Desktop>dir read *.txt
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+
+ Directorio de C:\Users\user\Desktop
+
+15/08/2022  11:25             1.541 codigo2347c++.txt
+17/08/2022  22:17               195 datos.txt
+26/08/2022  20:27                 0 geniop.txt
+15/08/2022  10:20             1.810 Juez Patito.txt
+19/08/2022  21:27                 0 programa.txt
+               5 archivos          3.546 bytes
+               0 dirs  113.512.050.688 bytes libres
+
+C:\Users\user\Desktop>dir read *.txt
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+
+ Directorio de C:\Users\user\Desktop
+
+15/08/2022  11:25             1.541 codigo2347c++.txt
+17/08/2022  22:17               195 datos.txt
+15/08/2022  10:20             1.810 Juez Patito.txt
+19/08/2022  21:27                 0 programa.txt
+               4 archivos          3.546 bytes
+               0 dirs  113.512.050.688 bytes libres
+
+C:\Users\user\Desktop>copy trabajo.txt
+El sistema no puede encontrar el archivo especificado.
+
+C:\Users\user\Desktop>copy con trabajo.txt
+me gusta la materia de com-99
+^B        1 archivo(s) copiado(s).
+
+C:\Users\user\Desktop>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+26/08/2022  20:33    <DIR>          .
+26/08/2022  20:33    <DIR>          ..
+06/08/2022  22:42    <DIR>          .ipynb_checkpoints
+21/08/2022  17:41    <DIR>          143
+13/08/2022  16:42    <DIR>          4EjemplosBacktracking
+13/08/2022  16:42           553.032 4EjemplosBacktracking.zip
+16/06/2022  13:53             1.263 AmongUs.lnk
+01/05/2022  12:05             1.247 Apache NetBeans IDE 13.lnk
+15/08/2022  10:10    <DIR>          archivos otros
+20/08/2022  21:00    <DIR>          Auxiliatura 2_2022
+30/06/2022  00:44            34.058 bien.webp
+16/08/2022  23:12    <DIR>          C++
+04/07/2022  23:14             1.263 ClashRoyale.lnk
+15/08/2022  11:25             1.541 codigo2347c++.txt
+12/08/2022  21:11            27.519 COMANDOS_CMD.docx
+20/08/2022  21:37    <DIR>          CONTEST_2
+17/08/2022  22:17               195 datos.txt
+10/08/2022  21:27             2.226 Discord.lnk
+01/05/2022  11:50               773 Eclipse IDE for Java Developers - 2022-03.lnk
+22/08/2022  11:56            12.873 EJERCICIO 2 144.docx
+09/07/2022  22:39               739 ejercicio1.py
+09/07/2022  22:16    <DIR>          ejercicio2
+21/08/2022  11:58    <DIR>          EJercicios Juez Patito Java
+05/08/2022  20:13    <DIR>          Estadistica1
+24/06/2022  18:01               391 Fall Guys.url
+02/05/2022  11:28               366 Fortnite.url
+02/05/2022  07:55               380 Grand Theft Auto V.url
+13/08/2022  22:23         1.643.746 IMAGENES ALEX.rar
+17/08/2022  02:29           351.699 inf 112.pdf
+06/07/2022  19:11             1.251 IntroStat.lnk
+12/08/2022  22:20    <DIR>          JUEZ PATITO PYTHON
+15/08/2022  10:20             1.810 Juez Patito.txt
+24/08/2022  10:17             2.390 KELVIN BOHN DAVISSON - Chrome.lnk
+01/05/2022  13:15             1.803 League of Legends.lnk
+15/07/2022  12:47    <DIR>          ListaSimpleEstudiantes
+07/05/2022  10:54             1.476 matlab - Acceso directo.lnk
+25/08/2022  21:47             2.355 Microsoft Teams.lnk
+30/04/2022  18:29               879 MinGW Installer.lnk
+19/08/2022  21:04    <DIR>          MS-DOS 2
+12/08/2022  21:28    <DIR>          MS_DOS
+17/08/2022  22:16    <DIR>          PAPELES AUXILIATURA IMPORTANTE
+06/08/2022  18:34    <DIR>          para programar php
+16/05/2022  17:47             2.632 photoshop.lnk
+02/05/2022  11:44               993 Polyspace R2019a.lnk
+09/07/2022  22:38               739 programa.py
+19/08/2022  21:27                 0 programa.txt
+08/10/2021  17:19    <DIR>          Programs
+25/08/2022  15:10    <DIR>          prote
+23/06/2022  08:15               731 PSeInt.lnk
+24/05/2022  19:13               941 Riot Client.lnk
+06/05/2022  22:08               380 Rocket League®.url
+02/05/2022  13:10               649 Rockstar Games Launcher.lnk
+01/05/2022  13:12             1.048 Spyder.lnk
+06/07/2022  19:39             1.327 Statistics.lnk
+06/07/2022  19:05             1.243 StatisticsCalculator.lnk
+06/07/2022  19:06             1.315 StatisticsFormulas.lnk
+03/08/2022  22:05             1.267 StumbleGuys.lnk
+30/04/2022  18:21               924 Sublime Text.lnk
+01/06/2022  01:16             1.029 Telegram.lnk
+05/08/2022  20:13    <DIR>          temporada 131
+26/08/2022  20:33                31 trabajo.txt
+06/08/2022  20:22             1.149 Untitled.ipynb
+02/05/2022  23:33             1.749 VALORANT.lnk
+02/05/2022  21:14               380 VALORANT.url
+04/07/2022  12:37             1.928 Zoom.lnk
+              44 archivos      2.665.730 bytes
+              21 dirs  113.514.295.296 bytes libres
+
+C:\Users\user\Desktop>dir read *.txt
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+
+ Directorio de C:\Users\user\Desktop
+
+15/08/2022  11:25             1.541 codigo2347c++.txt
+17/08/2022  22:17               195 datos.txt
+15/08/2022  10:20             1.810 Juez Patito.txt
+19/08/2022  21:27                 0 programa.txt
+26/08/2022  20:33                31 trabajo.txt
+               5 archivos          3.577 bytes
+               0 dirs  113.514.229.760 bytes libres
+
+C:\Users\user\Desktop>trabajo.txt
+
+C:\Users\user\Desktop>xcopy C:\Users\user\Desktop\SD C:\Users\user\Desktop\DOS\MS /E/H/C/I
+C:\Users\user\Desktop\SD\Hl\holamundo.txt
+1 archivo(s) copiado(s)
+
+C:\Users\user\Desktop>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+26/08/2022  20:36    <DIR>          .
+26/08/2022  20:36    <DIR>          ..
+06/08/2022  22:42    <DIR>          .ipynb_checkpoints
+21/08/2022  17:41    <DIR>          143
+13/08/2022  16:42    <DIR>          4EjemplosBacktracking
+13/08/2022  16:42           553.032 4EjemplosBacktracking.zip
+16/06/2022  13:53             1.263 AmongUs.lnk
+01/05/2022  12:05             1.247 Apache NetBeans IDE 13.lnk
+15/08/2022  10:10    <DIR>          archivos otros
+20/08/2022  21:00    <DIR>          Auxiliatura 2_2022
+30/06/2022  00:44            34.058 bien.webp
+16/08/2022  23:12    <DIR>          C++
+04/07/2022  23:14             1.263 ClashRoyale.lnk
+15/08/2022  11:25             1.541 codigo2347c++.txt
+12/08/2022  21:11            27.519 COMANDOS_CMD.docx
+20/08/2022  21:37    <DIR>          CONTEST_2
+17/08/2022  22:17               195 datos.txt
+10/08/2022  21:27             2.226 Discord.lnk
+26/08/2022  20:35    <DIR>          DOS
+01/05/2022  11:50               773 Eclipse IDE for Java Developers - 2022-03.lnk
+22/08/2022  11:56            12.873 EJERCICIO 2 144.docx
+09/07/2022  22:39               739 ejercicio1.py
+09/07/2022  22:16    <DIR>          ejercicio2
+21/08/2022  11:58    <DIR>          EJercicios Juez Patito Java
+05/08/2022  20:13    <DIR>          Estadistica1
+24/06/2022  18:01               391 Fall Guys.url
+02/05/2022  11:28               366 Fortnite.url
+02/05/2022  07:55               380 Grand Theft Auto V.url
+13/08/2022  22:23         1.643.746 IMAGENES ALEX.rar
+17/08/2022  02:29           351.699 inf 112.pdf
+06/07/2022  19:11             1.251 IntroStat.lnk
+12/08/2022  22:20    <DIR>          JUEZ PATITO PYTHON
+15/08/2022  10:20             1.810 Juez Patito.txt
+24/08/2022  10:17             2.390 KELVIN BOHN DAVISSON - Chrome.lnk
+01/05/2022  13:15             1.803 League of Legends.lnk
+15/07/2022  12:47    <DIR>          ListaSimpleEstudiantes
+07/05/2022  10:54             1.476 matlab - Acceso directo.lnk
+25/08/2022  21:47             2.355 Microsoft Teams.lnk
+30/04/2022  18:29               879 MinGW Installer.lnk
+19/08/2022  21:04    <DIR>          MS-DOS 2
+12/08/2022  21:28    <DIR>          MS_DOS
+17/08/2022  22:16    <DIR>          PAPELES AUXILIATURA IMPORTANTE
+06/08/2022  18:34    <DIR>          para programar php
+16/05/2022  17:47             2.632 photoshop.lnk
+02/05/2022  11:44               993 Polyspace R2019a.lnk
+09/07/2022  22:38               739 programa.py
+19/08/2022  21:27                 0 programa.txt
+08/10/2021  17:19    <DIR>          Programs
+25/08/2022  15:10    <DIR>          prote
+23/06/2022  08:15               731 PSeInt.lnk
+24/05/2022  19:13               941 Riot Client.lnk
+06/05/2022  22:08               380 Rocket League®.url
+02/05/2022  13:10               649 Rockstar Games Launcher.lnk
+26/08/2022  20:34    <DIR>          SD
+01/05/2022  13:12             1.048 Spyder.lnk
+06/07/2022  19:39             1.327 Statistics.lnk
+06/07/2022  19:05             1.243 StatisticsCalculator.lnk
+06/07/2022  19:06             1.315 StatisticsFormulas.lnk
+03/08/2022  22:05             1.267 StumbleGuys.lnk
+30/04/2022  18:21               924 Sublime Text.lnk
+01/06/2022  01:16             1.029 Telegram.lnk
+05/08/2022  20:13    <DIR>          temporada 131
+26/08/2022  20:33                31 trabajo.txt
+06/08/2022  20:22             1.149 Untitled.ipynb
+02/05/2022  23:33             1.749 VALORANT.lnk
+02/05/2022  21:14               380 VALORANT.url
+04/07/2022  12:37             1.928 Zoom.lnk
+              44 archivos      2.665.730 bytes
+              23 dirs  113.505.525.760 bytes libres
+
+C:\Users\user\Desktop>atribute help
+"atribute" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\user\Desktop>help atribut
+El programa de Ayuda no admite este comando.  Pruebe con "atribut /?".
+
+C:\Users\user\Desktop>help attrib
+Muestra o cambia los atributos de un archivo.
+
+ATTRIB [+R | -R] [+A | -A] [+S | -S] [+H | -H] [+O | -O] [+I | -I] [+X | -X] [+P | -P] [+U | -U]
+       [unidad:][ruta][nombre_de_archivo] [/S [/D]] [/L]
+
+  +   Establece un atributo.
+  -   Borra un atributo.
+  R   Atributo de archivo de solo lectura.
+  A   Atributo de archivo de almacenamiento.
+  S   Atributo de archivo del sistema.
+  H   Atributo de archivo oculto.
+  O   Atributo sin conexión.
+  I   Atributo de archivo sin indexado de contenido.
+  X   Atributo de archivo sin limpieza.
+  V   Atributo de integridad.
+  P   Atributo anclado.
+  U   Atributo desanclado.
+  B   Atributo de blob SMR.
+  [unidad:][ruta][nombre_de_archivo]
+      Especifica los archivos que procesará el atributo.
+  /S  Procesa archivos que coinciden en la carpeta actual
+      y todas las subcarpetas.
+  /D  También procesa carpetas.
+  /L  Se trabaja en los atributos del vínculo simbólico
+      frente al destino del vínculo simbólico.
+
+
+C:\Users\user\Desktop>cd sd
+
+C:\Users\user\Desktop\SD>dir
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop\SD
+
+26/08/2022  20:42    <DIR>          .
+26/08/2022  20:42    <DIR>          ..
+26/08/2022  20:41                 0 h1.txt
+26/08/2022  20:41                 0 h2.txt
+26/08/2022  20:41                 0 h3.txt
+26/08/2022  20:41                 0 h4.txt
+               4 archivos              0 bytes
+               2 dirs  113.504.083.968 bytes libres
+
+C:\Users\user\Desktop\SD>attib
+"attib" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+
+C:\Users\user\Desktop\SD>attrib
+A                    C:\Users\user\Desktop\SD\h1.txt
+A                    C:\Users\user\Desktop\SD\h2.txt
+A                    C:\Users\user\Desktop\SD\h3.txt
+A                    C:\Users\user\Desktop\SD\h4.txt
+
+C:\Users\user\Desktop\SD>attrib read *.txt +R
+Formato de parámetros incorrecto:
+
+C:\Users\user\Desktop\SD>attrib h1.txt +R
+
+C:\Users\user\Desktop\SD>attrib
+A    R               C:\Users\user\Desktop\SD\h1.txt
+A                    C:\Users\user\Desktop\SD\h2.txt
+A                    C:\Users\user\Desktop\SD\h3.txt
+A                    C:\Users\user\Desktop\SD\h4.txt
+
+C:\Users\user\Desktop\SD>attrib h1.txt -R
+
+C:\Users\user\Desktop\SD>attrib
+A                    C:\Users\user\Desktop\SD\h1.txt
+A                    C:\Users\user\Desktop\SD\h2.txt
+A                    C:\Users\user\Desktop\SD\h3.txt
+A                    C:\Users\user\Desktop\SD\h4.txt
+
+C:\Users\user\Desktop\SD>attrib *.txt -A +R
+
+C:\Users\user\Desktop\SD>attrib
+     R               C:\Users\user\Desktop\SD\h1.txt
+     R               C:\Users\user\Desktop\SD\h2.txt
+     R               C:\Users\user\Desktop\SD\h3.txt
+     R               C:\Users\user\Desktop\SD\h4.txt
+
+C:\Users\user\Desktop\SD>cd ..
+
+C:\Users\user\Desktop>del SD
+C:\Users\user\Desktop\SD\*, ¿Está seguro (S/N)? S
+C:\Users\user\Desktop\SD\h1.txt
+Acceso denegado.
+C:\Users\user\Desktop\SD\h2.txt
+Acceso denegado.
+C:\Users\user\Desktop\SD\h3.txt
+Acceso denegado.
+C:\Users\user\Desktop\SD\h4.txt
+Acceso denegado.
+
+C:\Users\user\Desktop>attrib SD\*.txt -R
+
+C:\Users\user\Desktop>del SD
+C:\Users\user\Desktop\SD\*, ¿Está seguro (S/N)? S
+
+C:\Users\user\Desktop>dir raed *SD
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+
+ Directorio de C:\Users\user\Desktop
+
+26/08/2022  20:51    <DIR>          SD
+               0 archivos              0 bytes
+               1 dirs  113.505.140.736 bytes libres
+
+C:\Users\user\Desktop>help rm
+El programa de Ayuda no admite este comando.  Pruebe con "rm /?".
+
+C:\Users\user\Desktop>help RMDIR
+Quita (elimina) un directorio.
+
+RMDIR [/S] [/Q] [unidad:]ruta
+RD [/S] [/Q] [unidad:]ruta
+
+    /S     Quita todos los directorios y archivos del directorio además
+           del mismo directorio. Se usa principalmente cuando se
+           desea quitar un árbol.
+
+    /Q     Modo silencioso, no pide confirmación para quitar un árbol
+           de directorio con /S
+
+C:\Users\user\Desktop>RD /S SD
+SD, ¿Está seguro (S/N)? S
+
+C:\Users\user\Desktop>dir read *SD
+ El volumen de la unidad C no tiene etiqueta.
+ El número de serie del volumen es: B668-18C6
+
+ Directorio de C:\Users\user\Desktop
+
+
+ Directorio de C:\Users\user\Desktop
+
+No se encuentra el archivo
+
+C:\Users\user\Desktop>
